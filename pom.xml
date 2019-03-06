@@ -4,7 +4,7 @@
   <groupId>com.mkyong.hashing</groupId>
   <artifactId>java-project</artifactId>
   <packaging>jar</packaging>
-  <version>2.0</version>
+  <version>2.1</version>
   <name>java-project</name>
   <url>http://maven.apache.org</url>
   <properties>
