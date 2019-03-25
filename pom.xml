@@ -57,12 +57,12 @@
 		<repository>
 			<id>mfp-release-local</id>
 			<name>MFP Release Repository</name>
-			<url>http://192.168.137.1:8081/nexus/content/repositories/portal-release/</url>
+			<url>http://13.127.86.72:8081/nexus/content/repositories/portal-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>mfp-snapshot-local</id>
 			<name>MFP Snapshot Repository</name>
-			<url>http://192.168.137.1:8081/nexus/content/repositories/portal-snapshot/</url>
+			<url>http://13.127.86.72:8081/nexus/content/repositories/portal-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
